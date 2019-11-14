@@ -13,4 +13,4 @@
 - [NLP curriculum](https://github.com/JoonKL/AI-Chatbot-curriculum/tree/master/NLP)
 - [Machine Learning curriculum](https://github.com/JoonKL/AI-Chatbot-curriculum/tree/master/MachineLearning)
 
-  
+- 해당 커리큘럼을 누르시면 해당 커리큘럼으로 이동합니다.  
