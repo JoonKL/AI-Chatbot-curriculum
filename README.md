@@ -7,8 +7,8 @@
 
 ## Curriculum 
 
-- Python curriculum
-- Crawling curriculum
+- [Python curriculum](https://github.com/JoonKL/AI-Chatbot-curriculum/tree/master/Python)
+- [Crawling curriculum]
 - Chatbot curriculum
 - NLP curriculum
 - Machine Learning curriculum
